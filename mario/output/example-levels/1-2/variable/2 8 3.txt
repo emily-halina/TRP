@@ -1,0 +1,16 @@
+----#-#---##SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS---##---##----#-#-----####-#-#-#-#-#-#----#####SSSSSS#-#-#-#-#-#-E-SSSSSSSSSSSSSSSSS####SSSSSSSSSSSS-#-#-#-#-#-E-#-
+--#-#-#-####-SS--SSSSSS--SSSS--SSSSSS--SSS--###--###--#-#-#-#--#####XXXXXXXXXXXX--XXXXXXXSSSSSSXXXXXXXXXXXXXXSSSSSSSSSSS--SSSS####SSSSSS--SSSSXXXXXXXXXXXXXXX
+#-#-#-#-####-SS--SSSSSS--SSSS--SSSSSS--SSS-####-#####-#-#-#-#XXXXXXXXXXXXXXXXXXX--XXXXXXXSSSSSSXXXXXXXXXXXXXXSSSSSSSSSSS--SSSSXXXXSSSSSS--SSSSXXXXXXXXXXXXXXX
+#-#-#-#-####S--------SS---S--------SS---S-###########-#-#-#-#XXXXXXXSSSSSSSSSSSS--SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS--SSSSSSSSSSSSSSSS
+XXXXXXXXXXXXS--------SS---S--------SS---S-XXXXXXXXXXXXXXXXXXXSS--SSSSSSSS--SSSS----SSSSSSSS-SSSSSS--SSSS-------------------S----------SSSS-------------------
+XXXXXXXXXXXXS--------SS---S--------SS---S-XXXXXXXXXXXXXXXXXXXSS--SSSSSSSS--SSSS----SSSSSSSS-SSSSSS--SSSS-------------------S----------SSSS-SS----------------
+-SS---S----SSooooo-----------------------ooooSSooooooooooo---SS---S----SS---S-----S-SSSS-SS-----SS---S--------------------------oooS-------------------------
+-SS---S----SS--------------------------------SS--------------SS---S----SS---S-----S-SSSS-SS-----SS---S-----------------------------S-------------------------
+-SS---S----SSSSSSS---------------------S-SSSSSSSSSSSSSSSSS---SS---S----SS---S-----S-SSSS-SS-----SS---S--------------------------SSSS-------------------------
+oSS---SoU--SCSSSSS---------------------SoS--SSSSSSSSSSSSSS---SS---SooooSS---SoU---CoSSSSoSS-ooooSS---SoU------------------------SSSC-------------------------
+SSS---SSS--SS------------#-#-----------SSS--SSS--------------SS---SSSSSSS---SSS---SSSSSSSSS-SSSSSS---SSS------TT-----------S-------S--SSSS------------##-----
+-----------------------#-#-#-#-#------------------------------------------------------------------------T-----TT-------------------------------------###---SS
+-----------------------#-#-#-#-#-#----------------------------------------------------------------------------TT----TT------------------------------####---SF
+---M---------g---------#-#-#-#-#-#-----kk----------------k--------------ggg-----------------------------------TT----TT-----------------------------#r###---S#
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--X---XXXXXXXXXXX---XXXXXXXXXXXX--XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--X---XXXXXXXXXXX---XXXXXXXXXXXX--XX
