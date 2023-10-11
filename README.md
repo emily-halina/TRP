@@ -8,7 +8,15 @@ This repository contains an implementation of TRP for the [Mario AI Framework](h
 Additional details on how TRP works and an evaluation of the approach against 6 PCG baselines can be found in "Tree-based Reconstructive Partitioning: A Novel Low-Data Level Generation Approach", a conference paper at [AIIDE 2023](https://sites.google.com/view/aiide-2023/home). If you use this work in any capacity in a research project or publication, please include the following citation.
 
 ```
-citation info soon to come!
+@inproceedings{halina2023tree,
+  title={Tree-Based Reconstructive Partitioning: A Novel Low-Data Level Generation Approach},
+  author={Halina, Emily and Guzdial, Matthew},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+  volume={19},
+  number={1},
+  pages={244--254},
+  year={2023}
+}
 ```
 
 # Generated Examples
